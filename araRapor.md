@@ -77,4 +77,4 @@ Projenin ilk aşamasında, ESP8266 mikrodenetleyicisi kullanılarak LCD ekran ü
 ---
 
 ## 8. Proje GitHub Linki
-🔗 [Proje GitHub Deposu](https://github.com/kullanici_adi/akilli-bitki-sulama-sistemi)
+🔗 [Proje GitHub Deposu](https://github.com/furkan-ylcn/AkilliBitkiSulamaSistemi.git)
