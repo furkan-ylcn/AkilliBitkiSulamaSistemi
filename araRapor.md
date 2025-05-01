@@ -73,3 +73,8 @@ Projenin ilk aşamasında, ESP8266 mikrodenetleyicisi kullanılarak LCD ekran ü
 - Röle modülü entegre edilerek gerçek bir lamba üzerinden ışıklandırma sağlanacak.  
 - Sistem güç kaynağı ve kutulama işlemleri tamamlanarak taşınabilir, uzun süreli çalışabilir bir ürün haline getirilecek.  
 - Nihai sunum için projenin tüm fonksiyonları gösterilecek bir demo hazırlanacak.  
+
+---
+
+## 8. Proje GitHub Linki
+🔗 [Proje GitHub Deposu](https://github.com/kullanici_adi/akilli-bitki-sulama-sistemi)
